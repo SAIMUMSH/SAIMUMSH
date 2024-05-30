@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/saimumssh" target="blank"><img src="https://img.shields.io/twitter/follow/saimumssh?logo=twitter&style=for-the-badge" alt="saimumssh" /></a> </p>
 
-- 🌱 I’m currently learning **C#, DOTNET Core(MVC,Onion Architechture), MSSql**
+- 🌱 I’m currently learning **C#, ASP.NET Core(MVC,Onion Architechture), MSSql**
 
 - 📫 How to reach me **sleepyheadprofessor@gmail.com**
 
