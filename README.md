@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#, ASP.NET Core(MVC,Onion Architechture), MSSql**
 
-- 📫 How to reach me **sleepyheadprofessor@gmail.com**
+- 📫 How to reach me **sh720362@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
